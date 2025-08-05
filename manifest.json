@@ -1,0 +1,11 @@
+{
+    "id": "prescription-tracker",
+    "name": "Prescription Tracker",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin to track medical prescriptions with structured notes and YAML frontmatter",
+    "author": "Your Name",
+    "authorUrl": "",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}

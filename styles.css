@@ -1,0 +1,44 @@
+/* Prescription Tracker Plugin Styles */
+
+.prescription-tracker-ribbon-class {
+    color: var(--text-normal);
+}
+
+.prescription-tracker-ribbon-class:hover {
+    color: var(--text-accent);
+}
+
+.modal-button-container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.prescription-modal .setting-item {
+    border: none;
+    padding: 10px 0;
+}
+
+.prescription-modal .setting-item-info {
+    margin-bottom: 5px;
+}
+
+.prescription-modal .setting-item-control {
+    margin-top: 5px;
+}
+
+.prescription-modal textarea {
+    min-height: 60px;
+    resize: vertical;
+}
+
+/* Ensure proper spacing in the modal */
+.prescription-modal .modal-content {
+    padding: 20px;
+}
+
+.prescription-modal h2 {
+    margin-bottom: 20px;
+    color: var(--text-normal);
+}
